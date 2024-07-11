@@ -12,6 +12,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/PlayerController.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PlayerStateList.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
@@ -56,6 +57,7 @@
       <workItem from="1720566237309" duration="3741000" />
       <workItem from="1720573344298" duration="2350000" />
       <workItem from="1720575769037" duration="1021000" />
+      <workItem from="1720652404695" duration="5480000" />
     </task>
     <servers />
   </component>
