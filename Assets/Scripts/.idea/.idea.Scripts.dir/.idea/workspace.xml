@@ -11,7 +11,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/PlayerController.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PlayerController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/PlayerStateList.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="ProblemsViewState">
@@ -58,6 +58,7 @@
       <workItem from="1720573344298" duration="2350000" />
       <workItem from="1720575769037" duration="1021000" />
       <workItem from="1720652404695" duration="5480000" />
+      <workItem from="1720885842851" duration="4699000" />
     </task>
     <servers />
   </component>
