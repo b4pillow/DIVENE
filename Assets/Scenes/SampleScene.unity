@@ -406,6 +406,7 @@ GameObject:
   - component: {fileID: 1895120570}
   - component: {fileID: 1895120571}
   - component: {fileID: 1895120572}
+  - component: {fileID: 1895120573}
   m_Layer: 0
   m_Name: Player
   m_TagString: Player
@@ -576,7 +577,7 @@ MonoBehaviour:
   whatIsGround:
     serializedVersion: 2
     m_Bits: 8
-  dashSpeed: 20
+  dashSpeed: 8
   dashTime: 0.2
   dashCooldown: 0.35
 --- !u!95 &1895120571
@@ -614,6 +615,23 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   jumping: 0
   dashing: 0
+--- !u!114 &1895120573
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1895120565}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b3833762ab9e6a14994f2bc7b408c915, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  anim: {fileID: 1895120571}
+  combo: 0
+  attacking: 0
+  audio: {fileID: 0}
+  sonido: []
 --- !u!1001 &3231987045141893798
 PrefabInstance:
   m_ObjectHideFlags: 0
